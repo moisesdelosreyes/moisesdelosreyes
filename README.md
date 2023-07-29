@@ -1,23 +1,16 @@
-- 👋 Hi, I’m @moisesdelosreyes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 moisesdelosreyes/moisesdelosreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# [Your Name]
+- 👋 Hi, I’m @moisesdelosreyes
 
 Experienced Linux System and Security Administrator | Cloud Security Information Technology
 
-## Summary
+## Summary 👀
 
 Experienced Linux System and Security Administrator with 12 years of expertise in Cloud Security Information Technology. Proficient in delivering system access on multi-platforms while adhering to company policies and providing precise data access and analysis. Skilled in conducting system access audits and troubleshooting issues for customers and employees. Strong knowledge in Linux administration, Cloud (AWS) management, Network Administration, Docker Technologies, and Automation with orchestration of servers using Ansible. Holds a Bachelor's Degree in Computer Engineering from AMA University.
 
-## Skills
+## Skills 🌱
 
 - **Applications:** Microsoft Office, Visual Studio 2019, Visual Studio Code, Sublime, Notepad++, Bracket, vim, vi
 - **Database Systems:** MySQL, MariaDB, XAMPP, WAMP, SQL Server Management Studio 2005 Express, SQL Server Management Studio 2008 R2
@@ -26,9 +19,9 @@ Experienced Linux System and Security Administrator with 12 years of expertise i
 - **Operating Systems:** Linux, Windows 7, 8, 10
 - **Other Skills:** Experience in testing different applications, Ticketing Systems, SAP, CRM Systems, Basic SQL Query execution, Basic command of Visual FoxPro
 
-## Experience
+## Experience 💞️ 
 
-### Senior Linux System Administrator | Seven Seven Global Services, Inc.
+### Senior Linux System Administrator | Seven Seven Global Services, Inc. ✨
 *November 2016 – Up to Present*
 
 - Provide guidance to engineering and operations teams on enabling and managing end-to-end availability and performance of mission-critical services.
@@ -43,7 +36,7 @@ Experienced Linux System and Security Administrator with 12 years of expertise i
 - Handle daily operations such as backing up email servers and databases using shell scripting for automation.
 - Perform weekly vulnerability scans on servers and workstations and provide installation and configuration of Microsoft Enterprise products.
 
-### Infrastructure Engineer L3 | Exist Software Labs, Inc.
+### Infrastructure Engineer L3 | Exist Software Labs, Inc. ✨
 *April 2013 – October 2015*
 
 - Manage servers in Linux and Windows environments for various clients.
@@ -56,7 +49,7 @@ Experienced Linux System and Security Administrator with 12 years of expertise i
 - Monitor network performance and ensure uninterrupted connectivity.
 - Implement exchange services, user account administration, backup system installation, and configuration of Active Directory Services.
 
-### Infrastructure Engineer L2 | Tech2Go Strategic I.T. Solutions
+### Infrastructure Engineer L2 | Tech2Go Strategic I.T. Solutions ✨
 *May 2012 – April 2015*
 
 - Conduct site surveys and document detailed checklists and reports for network equipment.
@@ -69,12 +62,12 @@ Experienced Linux System and Security Administrator with 12 years of expertise i
 - Proficient in Linux and Windows operating systems, Docker Technologies, and Automation with Ansible.
 - Skilled in executing SQL queries and Visual FoxPro commands.
 
-## Education
+## Education 📫
 
 - Bachelor's Degree in Computer Engineering
 - AMA University
 
-## Activities
+## Activities ✨
 
 - Digital signage project for LRT, MRT, and commercial areas
 - Partnership with Knock N’ Lock for securing outdoor facility cabinets at Globe Telecom
